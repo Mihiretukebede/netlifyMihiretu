@@ -1,11 +1,11 @@
 ---
 ## Configure page content in wide column
-title: "What I'm up to lately" # leave blank to exclude
+title: "What I'm up to Geramany" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Cultures clash as I adjust to the challenges of life in Paris while juggling my career, new friendships, and love life. Here is how to catch up with me lately!
+  Moved from Ethiopia to Germany to do a PhD. I finally got my PhD, get my own family, secure a nice postdoctoral position and I finally feel home and more settled! But, working in science makes me have unsettled career. 
 show_outro: true
 outro: |
   <i class="fas fa-mug-hot pr2"></i>If my blog has helped you, you can [buy me a coffee](https://ko-fi.com/)!

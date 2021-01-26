@@ -1,8 +1,8 @@
 baseURL = "/"
-theme = "hugo-apero"
+theme = "sky"
 languageCode = "en"
 title = "Hugo Apéro"
-author = "Alison Hill"
+author = "Mihiretu Kebede"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = ""

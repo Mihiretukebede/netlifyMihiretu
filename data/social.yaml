@@ -1,19 +1,19 @@
 social:
-- icon: facebook-square
-  icon_pack: fab
-  link: https://twitter.com/apreshill
-- icon: instagram
-  icon_pack: fab
-  link: https://twitter.com/apreshill
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/apreshill
 - icon: github
   icon_pack: fab
-  link: https://github.com/apreshill
+  link: https://github.com/Mihiretukebede/mkebede
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/alisonpresmaneshill/
+  link: https://www.linkedin.com/in/mihiretu-m-kebede-18831b70/
+- label: ORCID
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-5599-2823
+- label: Google Scholar
+  icon_pack: fab
+  link: https://scholar.google.de/citations?user=O93Icv4AAAAJ&hl=en
 - icon: rss
   icon_pack: fas
   link: /blog/index.xml
